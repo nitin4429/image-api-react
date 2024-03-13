@@ -1,0 +1,9 @@
+.Image-Wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+    align-items: center;
+}
+.image-heading{
+    letter-spacing: 0.5cap;
+}
